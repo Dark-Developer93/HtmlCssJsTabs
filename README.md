@@ -1,2 +1,0 @@
-# HtmlCssJsTabs
-Created with CodeSandbox
